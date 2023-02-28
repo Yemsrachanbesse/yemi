@@ -150,4 +150,3 @@ function guessGame() {
   console.log("you won!");
 }
 guessGame();
-gyu
